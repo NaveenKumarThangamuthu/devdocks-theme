@@ -14,5 +14,5 @@ Gem::Specification.new do |spec|
 
   spec.files = Dir['assets/**/*', '_includes/**/*', '_layouts/**/*', 'manifest.json', 'README.md']
 
-  spec.add_runtime_dependency 'jekyll', '>= 4.0'
+  spec.add_runtime_dependency 'jekyll', '>= 3.9.0'
 end
